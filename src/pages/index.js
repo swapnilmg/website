@@ -1,3 +1,3 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+export default () => <div>New version on this website is under construction. Stay Tuned!</div>
